@@ -1797,6 +1797,21 @@
         "Geolocation API",
         "Tests Included"
       ]
-    }
+    },
+    {
+      "name": "Dynofy",
+      "thumb": "dynofy/thumb.png",
+      "desc": "Website and Server Monitoring App. Also present on Play Store.",
+      "url": "http://dynofy.com/",
+      "info": "http://facebook.com/dynofy",
+      "submitter": "shubhamoy",
+      "submissionDate": "2014-02-24",
+      "tags": [
+        "Monitor Server",
+        "Monitor Website",
+        "Website Downtime Monitoring",
+        "Downtime Notification Android App"
+      ]
+    },
   ]
 }
